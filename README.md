@@ -9,5 +9,6 @@
 2. For some data they didn't have a specific numeric value, rather they had ranges. I have used an average number for that data (Completed survey) so that its easier to have an estimate about how many people completed the surveys. For example, I assigned the numbers like this: 300 or More to 350 |Fewer than 100 to "75" | Between 100 - 299 to "200". This might not be exactly accurate but this does give a direction to have a clear idea about this variable.
 
 **Key Insights**:
-*o*  South Dakota and Nebrasaka states have the most satisfied patients.
-   District of Columbia has the least satisfied patients
+ 1. **States with the Most and least satisfied patients**
+ **>** South Dakota and Nebraska states have the most satisfied patients.
+ **>** District of Columbia has the least satisfied patients
