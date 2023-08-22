@@ -10,7 +10,7 @@
 
 **Key Insights**:
 
- 1.  South Dakota and Nebraska states have the most satisfied patients.
- 2.  District of Columbia has the least satisfied patients
- 3.  Least Positive Satisfaction rate observed in the year 2023 i.e. 69%
+ 1. Most patient satisfaction rates of 77% were recorded in South Dakota and Nebraska states.
+ 2. The District of Columbia recorded the lowest patient satisfaction rates, which were at 15%
+ 3.  Least Positive Satisfaction rate (69%) observed in the year 2023
  4.  
