@@ -6,7 +6,7 @@ American Hospital Association (AHA) is a national organization that represents h
 
 **Objective**: 
 
-To analyze the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey results for the last 9 years. The intent of the HCAHPS initiative is to provide a standardized survey instrument for measuring patients’ perspectives on hospital care, and one of its 3 main goals is to "create incentives for hospitals to improve their quality of care.
+To analyze the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey results for the last 9 years and to derive actionable insights that could drive improvements in patient experiences and healthcare services. 
 
 **Data Cleaning**:
 1. I have cleaned the data in a way that all the tables are connected through their foreign keys and the relationships are well-defined.
